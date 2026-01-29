@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## About Me
 
-- 💼 Experienced Data Analyst with 3+ years of experience.
+- 💼 Experienced Data Analyst with 3.6+ years of experience.
 - 🌱 Currently pursuing the Google Data Analytics Certification
 - 🎓 Bachelor's in Electronics communication & Engineering.
 
